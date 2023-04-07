@@ -1,0 +1,2 @@
+SUM(capacite)
+488
